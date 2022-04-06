@@ -32,3 +32,4 @@ NVIDIA has a library of primitives called cuDNN that makes it easy to obtain per
 NVIDIA has also  an inference platform accelerator and runtime called TensorRT. 
 TensorRT delivers low-latency, high-throughput inference and tunes the runtime application 
 to run optimally across different families of GPUs.
+Following the tutorial for GitHub
